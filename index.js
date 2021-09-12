@@ -1,3 +1,3 @@
-const helloWorld = require("./helloWorld");
+const helloWorld = require("./src/helloWorld");
 
 helloWorld.printHelloWorld();
